@@ -27,10 +27,14 @@ public class Ejercicio12 {
         char[] p1 = pal1.toCharArray();
         char[] p2 = pal2.toCharArray();
 
-        if(p1.length >= p2.length) {
-            diferencias(pal1, pal2);
-        } else if (p1.length < p2.length) {
-            diferencias(pal2, pal1);
+        if(pal1.equals(pal2)) {
+            System.out.println("Las palabras son iguales");
+        } else {
+            if(p1.length >= p2.length) {
+                diferencias(pal1, pal2);
+            } else if (p1.length < p2.length) {
+                diferencias(pal2, pal1);
+            }
         }
     }
 }
