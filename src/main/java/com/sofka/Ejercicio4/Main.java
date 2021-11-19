@@ -7,7 +7,7 @@ public class Main {
     y calcule el precio final con IVA. El IVA sera una constante que sera del 21%.*/
 
     public static void main(String[] args) {
-        double IVA = 0.21;
+        final double IVA = 0.21;
         double precioFinal;
         double precio = Double.parseDouble(JOptionPane.showInputDialog("Ingrese el precio del producto"));
 

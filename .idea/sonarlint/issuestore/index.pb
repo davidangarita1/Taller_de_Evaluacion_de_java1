@@ -19,8 +19,6 @@ c
 3src/main/java/com/sofka/Ejercicio18/Videojuego.java,2\f\2fb29950c5edacb38e4acef8cf012e2d834526fd
 \
 ,src/main/java/com/sofka/Ejercicio2/Main.java,8\4\8406976a3c79bd7865f7e15e60faf7cb537a71b8
-\
-,src/main/java/com/sofka/Ejercicio4/Main.java,b\1\b1bf8cbec23b44ef3215953b5ac967c3aa4cb14e
 ]
 -src/main/java/com/sofka/Ejercicio10/Main.java,9\e\9e5f8500d8719164d76415f1aa6a62f54354a682
 ]

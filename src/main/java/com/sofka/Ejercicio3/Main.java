@@ -8,7 +8,7 @@ public class Main {
 //    Usa la constante PI y el método pow de Math.
 
     public static void main(String[] args) {
-        double PI = Math.PI;
+        final double PI = Math.PI;
         double area;
         double radio = Double.parseDouble(JOptionPane.showInputDialog("Ingrese el radio"));
 
