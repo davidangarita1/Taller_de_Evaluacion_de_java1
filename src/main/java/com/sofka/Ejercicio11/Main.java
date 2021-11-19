@@ -2,7 +2,7 @@ package com.sofka.Ejercicio11;
 
 import javax.swing.*;
 
-public class Ejercicio11 {
+public class Main {
     public static void main(String[] args) {
         String texto = JOptionPane.showInputDialog("Ingrese una frase cualquiera");
         int nVocales = 0;

@@ -3,7 +3,7 @@ package com.sofka.Ejercicio16;
 import javax.swing.*;
 import java.util.Scanner;
 
-public class Ejercicio16 {
+public class Main {
     public static void main(String[] args) {
         try {
             for (int i = 1; i <= 3; i++) {

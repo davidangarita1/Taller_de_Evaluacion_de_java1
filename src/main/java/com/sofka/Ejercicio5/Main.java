@@ -1,6 +1,6 @@
 package com.sofka.Ejercicio5;
 
-public class Ejercicio5 {
+public class Main {
     /*Muestra los números impares y pares del 1 al 100 (ambos incluidos). Usa un bucle while.*/
     public static void main(String[] args) {
         int cont = 1;

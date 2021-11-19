@@ -1,7 +1,7 @@
 package com.sofka.Ejercicio1;
 import javax.swing.*;
 
-public class Ejercicio1 {
+public class Main {
     /*
     Declara 2 variables numéricas (con el valor que desees),
     he indica cual es mayor de los dos. Si son iguales indicarlo

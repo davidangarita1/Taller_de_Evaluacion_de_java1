@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Ejercicio12 {
+public class Main {
 
     /*Pedir dos palabras por teclado, indicar si son iguales, sino son iguales mostrar sus diferencias.*/
 

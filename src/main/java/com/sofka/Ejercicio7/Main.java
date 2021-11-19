@@ -2,7 +2,7 @@ package com.sofka.Ejercicio7;
 
 import javax.swing.*;
 
-public class Ejercicio7 {
+public class Main {
     public static void main(String[] args) {
             int num;
         do {

@@ -1,6 +1,6 @@
 package com.sofka.Ejercicio6;
 
-public class Ejercicio6 {
+public class Main {
     /*Realiza el ejercicio anterior usando un ciclo for.*/
     public static void main(String[] args) {
         int limit = 100;

@@ -17,7 +17,5 @@ d
 4src/main/java/com/sofka/Ejercicio10/Ejercicio10.java,5\3\53f6085c8c5f8df25b9c15a76e4254f600bf4f7f
 b
 2src/main/java/com/sofka/Ejercicio2/Ejercicio2.java,0\7\07c201b09f1c9c57698b58c78583d4751d313b87
-d
-4src/main/java/com/sofka/Ejercicio15/Ejercicio15.java,0\8\089756809a9a9f722e6f458cd4be5e434ad08b8b
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
